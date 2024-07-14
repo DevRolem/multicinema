@@ -1,0 +1,40 @@
+.new-video {
+    padding: 28px;
+    max-width: 500px;
+    margin:0 auto;
+}
+
+.new-video h2 {
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+
+.new-video form div {
+    margin-bottom: 10px;
+}
+
+.new-video label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.new-video input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+}
+
+.new-video button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    border: none;
+    color: white;
+    cursor:pointer;
+}
+
+.new-video button:hover {
+    background-color: #0056b3;
+}

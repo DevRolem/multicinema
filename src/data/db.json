@@ -1,0 +1,27 @@
+{ "videos":[
+    {
+        "id": 1,
+        "titulo": "Cómo volverse un desarrollador Front End",
+        "capa": "https://caelum-online-public.s3.amazonaws.com/ESP-2052+-++React%3A+practicando+React+con+Js/282x425+-+Jean.png",
+        "link": "https://www.youtube.com/watch?v=-Ou5c3A225k"
+    },
+    {
+        "id": 2,
+        "titulo": "Explorando el poder del Back-End en el Desarrollo Web",
+        "capa": "https://caelum-online-public.s3.amazonaws.com/ESP-2052+-++React%3A+practicando+React+con+Js/282x425+-+Gabi.png",
+        "link": "https://www.youtube.com/watch?v=Z024LSCMqFk"
+    },
+    {
+        "id": 3,
+        "titulo": "¿Cuáles son las principales áreas de la programación?",
+        "capa": "https://caelum-online-public.s3.amazonaws.com/ESP-2052+-++React%3A+practicando+React+con+Js/282x425+-+Genesis.png",
+        "link": "https://www.youtube.com/embed/03cxUlwLVt4?si=zVCUQNO-eS2RZQTO"
+    },
+    {
+        "id": 4,
+        "titulo": "Detección de intruso con IA",
+        "capa": "https://caelum-online-public.s3.amazonaws.com/ESP-2052+-++React%3A+practicando+React+con+Js/282x425+-+Ale.png",
+        "link": "https://www.youtube.com/embed/5T_Q_NtNLZE?si=M7D0JeagaKqsoaFs"
+    }
+]
+}
